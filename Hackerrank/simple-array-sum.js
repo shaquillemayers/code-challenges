@@ -1,5 +1,5 @@
 /*
-Solution for HackerRank > Algorithms > Warmup > Simple Array Sum
+Solution for HackerRank Simple Array Sum
 https://www.hackerrank.com/challenges/simple-array-sum/problem
 */
 
